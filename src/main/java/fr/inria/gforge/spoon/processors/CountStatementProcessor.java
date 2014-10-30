@@ -5,7 +5,6 @@ import spoon.reflect.code.CtStatement;
 
 import java.io.File;
 import java.io.PrintWriter;
-import spoon.Launcher;
 
 /**
  * Created by gerard on 21/10/2014.
